@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://enlivit.com/assets/images/main_image.gif"  />
+<img align="right" alt="Coding" width="100%" src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif"  />
 <h1 align="center">Hi 👋, I'm Durdona Ibragimova</h1>
 <h3 align="center">A passionate full-stack developer from New York</h3>
 
