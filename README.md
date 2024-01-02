@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://technographx.com/wp-content/uploads/2023/03/History-of-GIF-3.giff"  />
+<img align="right" alt="Coding" width="100%" src="https://technographx.com/wp-content/uploads/2023/03/History-of-GIF-3.gif"  />
 <h1 align="center">Hi 👋, I'm Durdona Ibragimova</h1>
 <h3 align="center">A passionate full-stack developer from New York</h3>
 
