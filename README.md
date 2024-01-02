@@ -1,6 +1,7 @@
+<img align="right" alt="Coding" width="100%" src="https://enlivit.com/assets/images/main_image.gif"  />
 <h1 align="center">Hi 👋, I'm Durdona Ibragimova</h1>
 <h3 align="center">A passionate full-stack developer from New York</h3>
-<img align="right" alt="Coding" width="400" src="https://animated-gif-creator.com/images/01/html-grayish-line-appearing-around-background-image-of-a_60.gif" alt="coding" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durdonadev&label=Profile%20views&color=0e75b6&style=flat" alt="durdonadev" /> </p>
 
