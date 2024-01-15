@@ -1,8 +1,7 @@
-<img align="right" alt="Coding" width="100%" src="https://technographx.com/wp-content/uploads/2023/03/History-of-GIF-3.gif"  />
 <h1 align="center">Hi 👋, I'm Durdona Ibragimova</h1>
 <h3 align="center">A passionate full-stack developer from New York</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://technographx.com/wp-content/uploads/2023/03/History-of-GIF-3.gif"  />
+<img align="right" alt="Coding" width="500px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durdonadev&label=Profile%20views&color=0e75b6&style=flat" alt="durdonadev" /> </p>
 
